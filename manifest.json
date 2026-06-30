@@ -1,0 +1,16 @@
+{
+  "name": "SA Marketing",
+  "short_name": "SA Marketing",
+  "description": "Simple offline-first billing app for SA Marketing.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "./icons/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
